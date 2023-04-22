@@ -3,9 +3,11 @@
 This Library Management System is a web-based application that allows users to manage the books in a library. The system is built using JavaScript and HTML, and can be easily customized to suit the needs of any library.
 Getting Started
 
-To get started, you will need to have a web browser installed on your computer. The application has been tested on popular browsers such as Google Chrome, Mozilla Firefox, and Microsoft Edge.
+# get started,
+you will need to have a web browser installed on your computer. The application has been tested on popular browsers such as Google Chrome, Mozilla Firefox, and Microsoft Edge.
 
-To use the application, simply open the index.html file in your web browser. This will load the application in the browser.
+# use  
+the application, simply open the index.html file in your web browser. This will load the application in the browser.
 Using the System
 
 The Library Management System provides several features for managing the books in a library. These features include:
@@ -42,4 +44,4 @@ Contributing
 If you would like to contribute to the development of this project, please fork the repository and submit a pull request. We welcome contributions of all kinds, including bug fixes, new features, and documentation improvements.
 Credits
 
-This Library Management System was developed by [Your Name] and is based on the JavaScript Library Management System template by [Original Author's Name].
+This Library Management System was developed by [Habte Selassie Fitsum] and is based on the JavaScript Library Management System template by [Habte Selassie Fitsum].
